@@ -1,0 +1,2 @@
+# Factorizacion-LU-Java.
+Código Java para la factorización LU de matrices 3x3 mediante el método de Doolittle.
